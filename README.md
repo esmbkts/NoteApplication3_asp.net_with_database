@@ -1,2 +1,2 @@
-# NoteApplication1_c-
-Simple Note Application in c#
+# NoteApplication3_asp.net_with_database
+Simple Note Application in c# using ASP.net with database
