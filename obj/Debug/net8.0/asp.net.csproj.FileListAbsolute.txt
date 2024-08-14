@@ -134,3 +134,4 @@ C:\Users\esmab\source\repos\asp.net\obj\Debug\net8.0\refint\asp.net.dll
 C:\Users\esmab\source\repos\asp.net\obj\Debug\net8.0\asp.net.pdb
 C:\Users\esmab\source\repos\asp.net\obj\Debug\net8.0\asp.net.genruntimeconfig.cache
 C:\Users\esmab\source\repos\asp.net\obj\Debug\net8.0\ref\asp.net.dll
+C:\Users\esmab\source\repos\asp.net\obj\Debug\net8.0\asp.net.sourcelink.json
