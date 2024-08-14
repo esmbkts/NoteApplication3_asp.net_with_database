@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esmab\\source\\repos\\asp.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\accountaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\accountaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\views\\user\\adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:views\\user\\adminmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\adminuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\adminuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\views\\user\\deleteaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:views\\user\\deleteaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|c:\\users\\esmab\\source\\repos\\asp.net\\models\\noteaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8BBEB6-D039-4CC9-A3C9-A50DD882FB9F}|asp.net.csproj|solutionrelative:models\\noteaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 831,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\Signup.cshtml",
+              "RelativeToolTip": "Views\\User\\Signup.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:08:03.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:24:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\SignupViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SignupViewModel.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\SignupViewModel.cs",
+              "RelativeToolTip": "Models\\SignupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:16:51.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:01:26.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:59:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAction.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\UserAction.cs",
+              "RelativeDocumentMoniker": "Models\\UserAction.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\UserAction.cs",
+              "RelativeToolTip": "Models\\UserAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:57:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\AdminMenu.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\AdminMenu.cshtml",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\AdminMenu.cshtml",
+              "RelativeToolTip": "Views\\User\\AdminMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:49:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountAction.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\AccountAction.cs",
+              "RelativeDocumentMoniker": "Models\\AccountAction.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\AccountAction.cs",
+              "RelativeToolTip": "Models\\AccountAction.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAowDwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:55:15.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\DeleteAccount.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\DeleteAccount.cshtml",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\DeleteAccount.cshtml",
+              "RelativeToolTip": "Views\\User\\DeleteAccount.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:17:50.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\AdminUserViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AdminUserViewModel.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\AdminUserViewModel.cs",
+              "RelativeToolTip": "Models\\AdminUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:59:42.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:58:48.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NoteAction.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\NoteAction.cs",
+              "RelativeDocumentMoniker": "Models\\NoteAction.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Models\\NoteAction.cs",
+              "RelativeToolTip": "Models\\NoteAction.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:53:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:53:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\asp.net\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T06:56:49.689Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 50,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿@model asp.net.Models.NoteViewModel
+
+@{
+    ViewData["Title"] = "Update Note";
+}
+
+<h2>Update Note</h2>
+
+<form asp-action="UpdateNote" method="post">
+    <div class="form-group">
+        <label asp-for="Content" class="control-label"></label>
+        <textarea asp-for="Content" class="form-control"></textarea>
+        <span asp-validation-for="Content" class="text-danger"></span>
+    </div>
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

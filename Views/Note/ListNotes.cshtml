@@ -1,0 +1,30 @@
+﻿@model IEnumerable<asp.net.Models.Note>
+
+@{
+    ViewData["Title"] = "List Notes";
+}
+
+<h2>List Notes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Content</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Description</td>
+                <td>@note.LastUpdateTime.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                <td>
+                    <a asp-action="UpdateNote" asp-route-id="@note.Id" class="btn btn-primary">Update</a>
+                    <a asp-action="DeleteNote" asp-route-id="@note.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

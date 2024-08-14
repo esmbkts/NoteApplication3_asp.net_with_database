@@ -1,0 +1,42 @@
+﻿@model List<asp.net.Models.AdminUserViewModel>
+
+@{
+    ViewData["Title"] = "Admin Menu";
+}
+
+<h2>Admin Menu</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Accounts</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.Firstname</td>
+                <td>@user.Surname</td>
+                <td>
+                    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
+                        @foreach (var username in user.Usernames)
+                        {
+                            <li style="margin-bottom: 10px; display: flex; align-items: center;">
+                                <span style="flex: 1;">@username</span>
+                                <form asp-action="DeleteAccountConfirmed" method="post" style="margin: 0;">
+                                    <input type="hidden" name="username" value="@username" />
+                                    <button type="submit" class="btn btn-danger btn-sm" style="margin-left: 10px;">Delete</button>
+                                </form>
+                            </li>
+                        }
+                    </ul>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
